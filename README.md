@@ -1,4 +1,4 @@
-<p align="center"><a href="https://k6.io/"><img src="assets/k6-logo-with-grafana.svg" alt="k6" width="258" height="210" /></a></p>
+<p align="center"><a href="https://k6.io/"><img src="./ejercicio_k6/assets/k6-logo-with-grafana.svg" alt="k6" width="258" height="210" /></a></p>
 
 
 <h3 align="center">Resultados de la Ejecución del Script</h3>
@@ -6,7 +6,7 @@
 
 
 <br/>
-<img src="assets/github-hr.png" alt="---" />
+<img src="./ejercicio_k6/assets/github-hr.png" alt="---" />
 <br/>
 
 - **Checks:** 100.00% ✓ 7 ✗ 0
